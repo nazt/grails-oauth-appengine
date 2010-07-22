@@ -95,7 +95,7 @@ oauth {
         requestTokenUrl="http://twitter.com/oauth/request_token"
         accessTokenUrl="http://twitter.com/oauth/access_token"
         authUrl="http://twitter.com/oauth/authorize"
-        consumer.key="jC90o7Uu8zQmWKoPq0mmg"
-        consumer.secret="wZhzi6LcDvD9HaRsc8wTDxtFLAuEI6q50xmdiB7Jjjs"
+        consumer.key="SOnFQV4BiKYD3w2Ge7jBw"
+        consumer.secret="jq4TkgF4FJERwf3cfFEitoOn0u0BNd6ckKMEhXXyZY"
     }
 } 
